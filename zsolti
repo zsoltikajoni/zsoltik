@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Class-ek Css-sel</title>
+    <link rel="stylesheet" href="Tablazat_stilus.css">
+</head>
+<body>
+    <h1>Class-ek Css-sel</h1>
+    <table>
+        <tr>
+            <td class="black"></td>
+            <td class="white"></td>
+            <td class="black"></td>
+        </tr>
+        <tr>
+            <td class="white"></td>
+            <td id="egyediszin"></td>
+            <td class="white"></td>
+        </tr>
+        <tr>
+            <td class="black"></td>
+            <td class="white"></td>
+            <td class="black"></td>
+        </tr>
+    </table>
+    <div class="nagydoboz">
+      
+    <div class="kisdoboz" >
+    <h1>1.doboz</h1>
+    <p>
+        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quas, ut ipsam deserunt quo soluta possimus tempora aut necessitatibus error voluptatibus ipsa, nihil repellat sint, accusamus non nisi sapiente. Fuga, deleniti.
+    </p>
+    </div>
+    <div class="kisdoboz">
+    <h1>2.doboz</h1>
+    <p>
+        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quas, ut ipsam deserunt quo soluta possimus tempora aut necessitatibus error voluptatibus ipsa, nihil repellat sint, accusamus non nisi sapiente. Fuga, deleniti.
+    </p>
+    </div>
+    <div class="kisdoboz">
+    <h1>3.doboz</h1>
+    <p>
+        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quas, ut ipsam deserunt quo soluta possimus tempora aut necessitatibus error voluptatibus ipsa, nihil repellat sint, accusamus non nisi sapiente. Fuga, deleniti.
+    </p>
+    </div>
+
+</body>
+</html>
